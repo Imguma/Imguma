@@ -4,6 +4,5 @@
   <br>
   <br>
   ![Imguma's github stats](https://github-readme-stats.vercel.app/api?username=Imguma&show_icons=true&theme=github_dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imguma&layout=compact&theme=github_dark)
 
 </div>
