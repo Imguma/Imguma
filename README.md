@@ -14,11 +14,13 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 
+<a href="https://im-gu-ma.tistory.com/">
   <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
+</a>
+<a href="https://imguma.notion.site/8dff9cc48301425b996174727f00cbbd?pvs=4">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+</a>
   <br><br>
-
-  
 </div>
   <br>
   
